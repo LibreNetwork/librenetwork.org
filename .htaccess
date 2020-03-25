@@ -1,0 +1,13 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^orlandomesh\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.orlandomesh\.org$
+RewriteRule ^wiki\/Code_of_Conduct$ "http\:\/\/www\.orlandomesh\.org\/codeofconduct\.php" [R=302,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php72” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php72 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
