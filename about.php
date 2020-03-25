@@ -15,7 +15,7 @@ include("navbar.php");
       <div class="page-header">
         <h1>About Us</h1>
       </div>
-      <p>Welcome to the Orlando Meshnet Project! We're here to help build an open Internet - a truely global community that is not restricted by expensive ISPs, prone to censorship, and the like.</p>
+      <p>Welcome to the LibreNetwork Project! We're here to help build an open Internet - a truely global community that is not restricted by expensive ISPs, prone to censorship, and the like.</p>
 
 
     </div> <!-- /container -->

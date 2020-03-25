@@ -12,7 +12,7 @@ include("navbar.php");
     <div class="container theme-showcase" role="main">
 
       <div class="jumbotron">
-          <h1>Hello, Orlando!</h1>
+          <h1>Hello, Friends!</h1>
           <p>The Internet was designed to be free and open. We're helping to bring that concept back. One mesh node at a time.</p>
           <p><a class="btn btn-primary btn-lg" role="button"><span class="glyphicon glyphicon-thumbs-up"></span>Come see what we're about.</a></p>
       </div>

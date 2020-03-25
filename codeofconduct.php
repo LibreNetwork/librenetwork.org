@@ -13,7 +13,7 @@ include("navbar.php");
     <div class="container theme-showcase" role="main">
 
       <div class="page-header">
-        <h1>Orlando Meshnet Project Code of Conduct</h1>
+        <h1>LibreNetwork Project Code of Conduct</h1>
       </div>
 
 <p>This Code of Conduct covers your behaviour as a member of the Orlando Meshnet Project community, in any forum, mailing list, wiki, web site, IRC channel,
