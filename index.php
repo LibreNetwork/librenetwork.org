@@ -22,8 +22,7 @@ include("navbar.php");
         <h1>LibreNetwork</h1>
       </div>
       <p>Welcome to the LibreNetwork, a free and open network. </p>
-      <p>This site is to help provide information on working towards a free and open network. Right now, we are in very early stages! The mesh is highly experimental and technical knowledge is almost a must. </p>
-      <p>What we plan to grow out is a TCP/IP based mesh. This is simply for compatibility with exisiting frameworks, stacks, protocols, equipment, etc. We know that by basing it off of TCP/IP, we have room to grow and that we can follow the KISS method: Keep It Stupid Simple. In experimental phases, we will be running off of IPv4, however, should and when the mesh grows to the point to become large-scale, we will convert over to IPv6.</p>
+      <p>This site is to help provide information on working towards a free and open network. </p>
       <p>This site is under construction and more information will be posted when available. </p>
 
 
