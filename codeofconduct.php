@@ -16,8 +16,8 @@ include("navbar.php");
         <h1>LibreNetwork Project Code of Conduct</h1>
       </div>
 
-<p>This Code of Conduct covers your behaviour as a member of the Orlando Meshnet Project community, in any forum, mailing list, wiki, web site, IRC channel,
-install-fest, public meeting or private correspondence. The Orlando Meshnet Board of Directors will arbitrate in any dispute over the conduct of a
+<p>This Code of Conduct covers your behaviour as a member of the LibreNetwork Project community, in any forum, mailing list, wiki, web site, IRC channel,
+install-fest, public meeting or private correspondence. The LibreNetwork Board of Directors will arbitrate in any dispute over the conduct of a
 member of the community.</p>
 
       <p><b>Be considerate.</b> Your work will be used by other people,
@@ -29,7 +29,7 @@ member of the community.</p>
       people will be testing the frozen system and will not be
       expecting big changes.</p>
 
-      <p><b>Be respectful.</b> The Orlando Meshnet community and its members treat
+      <p><b>Be respectful.</b> The LibreNetwork community and its members treat
       one another with respect. Everyone can make a valuable
       contribution to the project. We may not always agree, but
       disagreement is no excuse for poor behaviour and poor
@@ -37,17 +37,17 @@ member of the community.</p>
       but we cannot allow that frustration to turn into a personal
       attack. It's important to remember that a community where people
       feel uncomfortable or threatened is not a productive one. We
-      expect members of the Orlando Meshnet community to be respectful when
+      expect members of the LibreNetwork community to be respectful when
       dealing with other contributors as well as with people outside
-      the Orlando Meshnet project and with users of the meshnet.</p>
+      the LibreNetwork Project and with users of the meshnet.</p>
 
-      <p><b>Be collaborative.</b> The Orlando Meshnet is about
+      <p><b>Be collaborative.</b> The LibreNetwork is about
       collaboration and working together. Collaboration reduces
       redundancy of work done in the Free Software world, and improves
       the quality of the software produced. You should aim to
       collaborate with other meshnet maintainers, as well as with the
       upstream community that is interested in the work you do. Your
-      work should be done transparently and patches from the Orlando Meshnet project should
+      work should be done transparently and patches from the LibreNetwork Project should
       be given back to the community when they are made, not just when
       the distribution releases. If you wish to work on new code for
       existing upstream projects, at least keep those projects
@@ -60,20 +60,20 @@ member of the community.</p>
       your efforts.</p>
 
       <p><b>When you disagree,</b> consult others. Disagreements, both
-      political and technical, happen all the time and the Orlando Meshnet
+      political and technical, happen all the time and the LibreNetwork
       community is no exception. The important goal is not to avoid
       disagreements or differing views but to resolve them
       constructively. You should turn to the community and to the
       community process to seek advice and to resolve
       disagreements. We have the Board of Directors, which will help to decide the right course for
-      the Orlando Meshnet project. There are also several Project Teams and Team Leaders,
+      the LibreNetwork Project. There are also several Project Teams and Team Leaders,
       who may be able to help you figure out which direction will be
       most acceptable. If you really want to go a different way, then
       we encourage you to make a derivative distribution so that the community can try out your
       changes and ideas for itself and contribute to the discussion.</p>
 
       <p><b>When you are unsure,</b> ask for help. Nobody knows
-      everything, and nobody is expected to be perfect in the Orlando Meshnet
+      everything, and nobody is expected to be perfect in the LibreNetwork
       community. Asking questions avoids
       many problems down the road, and so questions are
       encouraged. Those who are asked should be responsive and
@@ -83,7 +83,7 @@ member of the community.</p>
       productive discussion.</p>
 
       <p><b>Step down considerately.</b> Developers on every project come
-      and go and the Orlando Meshnet is no different. When you leave or disengage
+      and go and the LibreNetwork is no different. When you leave or disengage
       from the project, in whole or in part, we ask that you do so in
       a way that minimises disruption to the project. This means you
       should tell people you are leaving and take the proper steps to
