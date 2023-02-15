@@ -21,7 +21,7 @@
                 <li class="dropdown-header">Software Repos</li>
                 <li><a href="https://github.com/LibreNetwork/librenetwork.org" target="_blank">LibreNetwork Website</a></li>
                 <li class="dropdown-header">Projects</li>
-                <li><a href="https://projects.librenetwork.org">Projects Site</a></li>
+                <li><a href="https://traq.thelnf.org">Traq (Projects)</a></li>
               </ul>
             </li>
             <li class="dropdown">
