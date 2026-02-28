@@ -17,7 +17,7 @@ include("navbar.php");
           <p>
             <a href="manifesto.php" class="btn btn-primary btn-lg" role="button">Read Our Manifesto</a>
             &nbsp;
-            <a href="about.php" class="btn btn-default btn-lg" role="button">About the Project</a>
+            <a href="getinvolved.php" class="btn btn-default btn-lg" role="button">Get Involved</a>
           </p>
       </div>
 
@@ -36,6 +36,46 @@ include("navbar.php");
         </div>
       </div>
 
+      <div class="how-it-works">
+        <h2>How It Works</h2>
+        <div class="row">
+          <div class="col-md-3 col-sm-6">
+            <div class="step-box">
+              <span class="glyphicon glyphicon-user"></span>
+              <h4>Join</h4>
+              <p>Get on the mailing list, introduce yourself, and connect with people in your area.</p>
+            </div>
+          </div>
+          <div class="col-md-1 hidden-sm hidden-xs">
+            <div class="step-arrow">&rsaquo;</div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="step-box">
+              <span class="glyphicon glyphicon-wrench"></span>
+              <h4>Build</h4>
+              <p>Set up mesh nodes in your community using open hardware and open firmware.</p>
+            </div>
+          </div>
+          <div class="col-md-1 hidden-sm hidden-xs">
+            <div class="step-arrow">&rsaquo;</div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="step-box">
+              <span class="glyphicon glyphicon-bullhorn"></span>
+              <h4>Advocate</h4>
+              <p>Educate your neighbors, contribute code, and help grow the libre internet.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-alt">
+        <h2>Ready to Get Started?</h2>
+        <p>You don't need to be an engineer. You need to care about what the internet could be &mdash; and be willing to help build it.</p>
+        <a href="getinvolved.php" class="btn btn-primary btn-lg" role="button">Get Involved</a>
+        &nbsp;
+        <a href="manifesto.php" class="btn btn-default btn-lg" role="button">Read the Manifesto</a>
+      </div>
 
     </div> <!-- /container -->
 

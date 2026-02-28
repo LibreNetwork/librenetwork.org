@@ -67,7 +67,7 @@ include("navbar.php");
       <p><strong>The internet you were promised still exists. We're building it.</strong></p>
 
       <p>
-        <a href="http://lists.librenetwork.org/mailman/listinfo/discussion_lists.librenetwork.org" class="btn btn-primary btn-lg" target="_blank" role="button">Join the Mailing List</a>
+        <a href="/getinvolved.php" class="btn btn-primary btn-lg" role="button">Get Involved</a>
         &nbsp;
         <a href="/about.php" class="btn btn-default btn-lg" role="button">Learn More About Us</a>
       </p>

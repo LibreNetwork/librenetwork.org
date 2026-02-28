@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/travis/repos/librenetwork.org/navbar.php:*)",
+      "Bash(/Users/travis/repos/librenetwork.org/index.php:*)",
+      "Bash(/Users/travis/repos/librenetwork.org/about.php:*)",
+      "Bash(ls -la /Users/travis/repos/librenetwork.org/*.php)"
+    ]
+  }
+}

@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
 body {
   padding-top: 70px;
   padding-bottom: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
 }
 
 .theme-dropdown .dropdown-menu {
@@ -11,4 +19,111 @@ body {
 
 .theme-showcase > p > .btn {
   margin: 5px 0;
+}
+
+/* Jumbotron — dark with light text */
+.jumbotron {
+  background-color: #1a1a2e;
+  color: #f0f0f0;
+  border-radius: 4px;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.jumbotron p {
+  color: #cccccc;
+  font-size: 18px;
+}
+
+/* Section with alternating dark background for CTAs */
+.section-alt {
+  background-color: #2d2d44;
+  color: #f0f0f0;
+  padding: 40px 30px;
+  margin: 30px 0 0;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.section-alt h2 {
+  color: #ffffff;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.section-alt p {
+  color: #cccccc;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+/* Step cards for Get Involved page */
+.step-card {
+  background-color: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.step-card .step-number {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  background-color: #337ab7;
+  color: #fff;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 36px;
+  font-weight: 700;
+  font-size: 16px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+/* Resource categories */
+.resource-category {
+  margin-bottom: 30px;
+}
+
+.resource-category h3 {
+  border-bottom: 2px solid #337ab7;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+}
+
+/* How it works strip on homepage */
+.how-it-works {
+  background-color: #f5f5f5;
+  padding: 30px 30px;
+  margin: 30px 0 0;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.how-it-works h2 {
+  margin-bottom: 25px;
+}
+
+.how-it-works .step-arrow {
+  font-size: 28px;
+  color: #337ab7;
+  line-height: 80px;
+}
+
+.how-it-works .step-box {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+.how-it-works .step-box .glyphicon {
+  font-size: 32px;
+  color: #337ab7;
+  display: block;
+  margin-bottom: 10px;
 }
