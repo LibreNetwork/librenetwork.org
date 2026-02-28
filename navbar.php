@@ -14,6 +14,7 @@
           <ul class="nav navbar-nav">
             <li><a href="/index.php">Home</a></li>
             <li><a href="/about.php">About</a></li>
+            <li><a href="/manifesto.php">Manifesto</a></li>
             <li class="disabled"><a href="#contact">Contact</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dev<b class="caret"></b></a>
