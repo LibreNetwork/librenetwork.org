@@ -6,6 +6,17 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.navbar-brand {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.navbar-brand img {
+  display: block;
+  height: 34px;
+  width: auto;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
